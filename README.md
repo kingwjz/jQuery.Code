@@ -4,7 +4,7 @@
 <h3>
 <a name="user-content-%E6%9C%AC%E4%B9%A6%E5%8C%85%E6%8B%AC%E4%BB%A5%E4%B8%8B%E5%86%85%E5%AE%B9" class="anchor" href="#%E6%9C%AC%E4%B9%A6%E5%8C%85%E6%8B%AC%E4%BB%A5%E4%B8%8B%E5%86%85%E5%AE%B9" aria-hidden="true"><span class="octicon octicon-link"></span></a></h3>
 
-<p>如有疑问，<a href="https://github.com/kingwjz/jquery.code.segment/issues/1">交流互动区</a></p>
+<p>如有疑问，<a href="https://github.com/kingwjz/Jquery.Code/issues/1">交流互动区</a></p>
 <a name="user-content-%E8%B6%85%E5%AE%9E%E7%94%A8%E7%9A%84css%E4%BB%A3%E7%A0%81%E6%AE%B5-%E7%9B%AE%E5%BD%95" class="anchor" href="#%E8%B6%85%E5%AE%9E%E7%94%A8%E7%9A%84css%E4%BB%A3%E7%A0%81%E6%AE%B5-%E7%9B%AE%E5%BD%95" aria-hidden="true"><span class="octicon octicon-link"></span></a>
 <a href="https://github.com/kingwjz/jquery.code">《超实用的jQuery代码段》</a>目录</h3>
 
